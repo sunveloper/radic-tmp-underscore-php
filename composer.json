@@ -1,5 +1,5 @@
 {
-  "name": "radic/tmp-underscore-php",
+  "name": "sunveloper/radic-tmp-underscore-php",
   "description": "Temporary package until underscore-php updates its dependencies. A redacted port of Underscore.js for PHP",
   "license": "MIT",
   "keywords": [
